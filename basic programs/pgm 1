@@ -1,0 +1,5 @@
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+a=abs(x-y)
+z=a*(x+y)
+print("value of z is:",z)
